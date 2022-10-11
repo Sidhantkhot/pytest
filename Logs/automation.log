@@ -1,0 +1,965 @@
+*********** Test_001_Login ***********
+*********** Verifying Home Page Title ***********
+*********** Test Home Page Title passed  ***********
+*********** Verifying Login Page Title ***********
+*********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:03:00 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:03:00 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:03:04 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:03:05 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:03:15 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:23:43 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:23:43 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:23:47 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:23:48 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:23:58 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:29:40 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:29:43 - INFO : Get LATEST geckodriver version for 105.0 firefox
+Fri, 07 Oct 2022 21:29:45 - INFO : There is no [win64] geckodriver for browser 105.0 in cache
+Fri, 07 Oct 2022 21:29:45 - INFO : Getting latest mozilla release info for v0.31.0
+Fri, 07 Oct 2022 21:29:46 - INFO : About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+Fri, 07 Oct 2022 21:29:50 - INFO : Driver has been saved in cache [C:\Users\SIDHANT\.wdm\drivers\geckodriver\win64\0.31]
+Fri, 07 Oct 2022 21:29:59 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:29:59 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:30:05 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:30:05 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:30:06 - INFO : Get LATEST geckodriver version for 105.0 firefox
+Fri, 07 Oct 2022 21:30:08 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+Fri, 07 Oct 2022 21:30:17 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:30:25 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:32:25 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:32:26 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:32:27 - INFO : There is no [win64] edgedriver for browser 106.0.1370 in cache
+Fri, 07 Oct 2022 21:32:27 - INFO : About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
+Fri, 07 Oct 2022 21:32:36 - INFO : Driver has been saved in cache [C:\Users\SIDHANT\.wdm\drivers\edgedriver\win64\106.0.1370]
+Fri, 07 Oct 2022 21:32:38 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:32:38 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:32:42 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:32:42 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:32:43 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:32:44 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:32:47 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:32:57 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:34:19 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:34:20 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:34:21 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:34:24 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:34:24 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:34:29 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:34:29 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:34:29 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:34:30 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:34:34 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:34:43 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:53:41 - INFO : xdist worker is: gw0
+Fri, 07 Oct 2022 21:53:41 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:53:41 - INFO : xdist worker is: gw1
+Fri, 07 Oct 2022 21:53:41 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:53:43 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:53:43 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:53:44 - INFO : There is no [win64] edgedriver for browser 106.0.1370 in cache
+Fri, 07 Oct 2022 21:53:44 - INFO : About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
+Fri, 07 Oct 2022 21:53:44 - INFO : There is no [win64] edgedriver for browser 106.0.1370 in cache
+Fri, 07 Oct 2022 21:53:44 - INFO : About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
+Fri, 07 Oct 2022 21:54:13 - INFO : Driver has been saved in cache [C:\Users\SIDHANT\.wdm\gw0\drivers\edgedriver\win64\106.0.1370]
+Fri, 07 Oct 2022 21:54:16 - INFO : Driver has been saved in cache [C:\Users\SIDHANT\.wdm\gw1\drivers\edgedriver\win64\106.0.1370]
+Fri, 07 Oct 2022 21:54:17 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:54:17 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:54:20 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:54:21 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:54:28 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:54:56 - INFO : xdist worker is: gw1
+Fri, 07 Oct 2022 21:54:56 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:54:56 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:54:57 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:54:57 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:54:58 - INFO : Driver [C:\Users\SIDHANT\.wdm\gw1\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:54:58 - INFO : Driver [C:\Users\SIDHANT\.wdm\gw0\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:55:01 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:55:01 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:55:01 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:55:09 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:55:15 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 21:55:56 - INFO : xdist worker is: gw1
+Fri, 07 Oct 2022 21:55:56 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:55:56 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:55:57 - INFO : Get LATEST chromedriver version for google-chrome 105.0.5195
+Fri, 07 Oct 2022 21:55:57 - INFO : Get LATEST chromedriver version for google-chrome 105.0.5195
+Fri, 07 Oct 2022 21:55:58 - INFO : There is no [win32] chromedriver for browser 105.0.5195 in cache
+Fri, 07 Oct 2022 21:55:58 - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+Fri, 07 Oct 2022 21:55:58 - INFO : There is no [win32] chromedriver for browser 105.0.5195 in cache
+Fri, 07 Oct 2022 21:55:58 - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+Fri, 07 Oct 2022 21:56:39 - INFO : Driver has been saved in cache [C:\Users\SIDHANT\.wdm\gw1\drivers\chromedriver\win32\105.0.5195]
+Fri, 07 Oct 2022 21:56:42 - INFO : Driver has been saved in cache [C:\Users\SIDHANT\.wdm\gw0\drivers\chromedriver\win32\105.0.5195]
+Fri, 07 Oct 2022 21:57:52 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:57:53 - INFO : Get LATEST chromedriver version for google-chrome 105.0.5195
+Fri, 07 Oct 2022 21:57:54 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+Fri, 07 Oct 2022 21:57:54 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:57:54 - INFO : Get LATEST chromedriver version for google-chrome 105.0.5195
+Fri, 07 Oct 2022 21:57:55 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+Fri, 07 Oct 2022 21:59:26 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:59:26 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:59:27 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:59:31 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 21:59:31 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 21:59:35 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 21:59:35 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 21:59:35 - INFO : Get LATEST edgedriver version for 106.0.1370 Edge
+Fri, 07 Oct 2022 21:59:36 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+Fri, 07 Oct 2022 21:59:39 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 21:59:48 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 22:00:06 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 22:00:07 - INFO : Get LATEST chromedriver version for google-chrome 105.0.5195
+Fri, 07 Oct 2022 22:00:08 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+Fri, 07 Oct 2022 22:00:08 - INFO : ====== WebDriver manager ======
+Fri, 07 Oct 2022 22:00:09 - INFO : Get LATEST chromedriver version for google-chrome 105.0.5195
+Fri, 07 Oct 2022 22:00:09 - INFO : Driver [C:\Users\SIDHANT\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+Fri, 07 Oct 2022 22:04:59 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 22:04:59 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 22:05:05 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 22:05:06 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 22:05:14 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 22:05:28 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 22:05:28 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 22:05:28 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 22:05:35 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 22:05:37 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 22:26:10 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 22:26:10 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 22:26:10 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 22:26:15 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 22:26:18 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 22:42:50 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 22:42:50 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 22:42:51 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 22:42:54 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 22:43:02 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 22:46:17 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 22:46:18 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 22:46:18 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 22:46:25 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 22:46:29 - INFO : *********** Test Login Page Title passed  ***********
+Fri, 07 Oct 2022 22:47:56 - INFO : *********** Verifying Login Page Title ***********
+Fri, 07 Oct 2022 22:47:56 - INFO : *********** Test_001_Login ***********
+Fri, 07 Oct 2022 22:47:56 - INFO : *********** Verifying Home Page Title ***********
+Fri, 07 Oct 2022 22:48:00 - INFO : *********** Test Home Page Title passed  ***********
+Fri, 07 Oct 2022 22:48:03 - INFO : *********** Test Login Page Title passed  ***********
+Sat, 08 Oct 2022 11:18:23 - INFO : *********** Test_001_Login ***********
+**********
+Sat, 08 Oct 2022 11:18:23 - INFO : *********** Verifying Home Page Title ***********
+Sat, 08 Oct 2022 11:18:41 - INFO : *********** Test Login Page Title passed  ***********
+Sat, 08 Oct 2022 11:18:44 - INFO : *********** Test Home Page Title passed  ***********
+Sat, 08 Oct 2022 12:51:52 - INFO : *********** Test_002_DDT_login ***********
+Sat, 08 Oct 2022 12:51:52 - INFO : *********** Verifying Login Page Title ***********
+Sat, 08 Oct 2022 12:53:36 - INFO : *********** Test_002_DDT_login ***********
+Sat, 08 Oct 2022 12:53:36 - INFO : *********** Verifying Login Page Title ***********
+Sat, 08 Oct 2022 12:53:44 - INFO : **** passed ****
+Sat, 08 Oct 2022 12:53:48 - INFO : **** failed ****
+Sat, 08 Oct 2022 12:53:49 - INFO : **** failed ****
+Sat, 08 Oct 2022 12:55:04 - INFO : *********** Test_002_DDT_login ***********
+Sat, 08 Oct 2022 12:55:04 - INFO : *********** Verifying Login Page Title ***********
+Sat, 08 Oct 2022 12:55:16 - INFO : **** passed ****
+Sat, 08 Oct 2022 12:55:21 - INFO : **** failed ****
+Sat, 08 Oct 2022 12:55:22 - INFO : **** failed ****
+Sat, 08 Oct 2022 12:55:24 - INFO : **** failed ****
+Sat, 08 Oct 2022 12:55:25 - INFO : **** failed ****
+Sat, 08 Oct 2022 12:55:25 - INFO : *********** Test Login DDT passed ***********
+Sat, 08 Oct 2022 12:55:25 - INFO : *********** Test Login DDT completed ***********
+Sat, 08 Oct 2022 18:02:38 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 18:02:38 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 18:06:21 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 18:06:21 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 22:23:49 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 22:23:49 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 22:27:23 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 22:27:23 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 22:28:11 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 22:28:11 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 22:30:34 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 22:30:34 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 22:34:06 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 22:34:06 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 23:04:20 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 23:04:20 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 23:09:16 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 23:09:16 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 23:11:17 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 23:11:17 - INFO : *********** Verifying add new customer ***********
+Sat, 08 Oct 2022 23:15:35 - INFO : *********** Test_003_AddNewCustomer ***********
+Sat, 08 Oct 2022 23:15:35 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 09:57:42 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 09:57:42 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 09:59:39 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 09:59:39 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 10:03:41 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 10:03:41 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 10:05:59 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 10:05:59 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:11:46 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:11:46 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:19:07 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:19:08 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:21:38 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:21:38 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:25:16 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:25:16 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:42:13 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:42:13 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:46:04 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:46:04 - INFO : *********** Verifying add new customer ***********
+Sun, 09 Oct 2022 11:49:13 - INFO : *********** Test_003_AddNewCustomer ***********
+Sun, 09 Oct 2022 11:49:13 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:27:10 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:27:10 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:27:33 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:27:33 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:28:30 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:28:30 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:37:42 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:37:42 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:39:15 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:39:15 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:40:05 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:40:05 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:42:30 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:42:30 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:43:44 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:43:44 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:45:21 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:45:21 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:51:01 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:51:01 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:52:21 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:52:21 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:56:25 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:56:25 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:57:16 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:57:16 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 17:58:45 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 17:58:45 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:03:19 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:03:19 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:07:50 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:07:50 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:08:52 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:08:52 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:10:00 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:10:00 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:13:24 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:13:24 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:29:25 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:29:25 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:30:05 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:30:05 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:33:14 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:33:14 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:42:24 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:42:24 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:42:45 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:42:45 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:43:38 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:43:38 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:57:21 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:57:21 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 18:59:01 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 18:59:01 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 19:18:59 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 19:18:59 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 19:20:12 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 19:20:12 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 19:25:42 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 19:25:42 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 19:27:22 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 19:27:22 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:03:06 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:03:06 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:03:32 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:03:34 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:03:36 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:03:37 - INFO : *********** entered email hernandezrandy@example.org ***********
+Mon, 10 Oct 2022 20:03:37 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:03:37 - INFO : *********** entered first name Andrea***********
+Mon, 10 Oct 2022 20:03:37 - INFO : *********** entered last name Walter***********
+Mon, 10 Oct 2022 20:07:53 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:07:53 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:08:01 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:08:04 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:08:06 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:08:06 - INFO : *********** entered email callison@example.net ***********
+Mon, 10 Oct 2022 20:08:06 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:08:06 - INFO : *********** entered first name Wesley***********
+Mon, 10 Oct 2022 20:08:06 - INFO : *********** entered last name Sosa***********
+Mon, 10 Oct 2022 20:09:30 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:09:30 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:09:39 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:09:40 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:09:42 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:09:42 - INFO : *********** entered email debrachandler@example.net ***********
+Mon, 10 Oct 2022 20:09:42 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:09:42 - INFO : *********** entered first name Shawn***********
+Mon, 10 Oct 2022 20:09:43 - INFO : *********** entered last name Wilson***********
+Mon, 10 Oct 2022 20:13:05 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:13:05 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:13:13 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:13:16 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:13:18 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:13:18 - INFO : *********** entered email tara47@example.org ***********
+Mon, 10 Oct 2022 20:13:18 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:13:18 - INFO : *********** entered first name Michael***********
+Mon, 10 Oct 2022 20:13:18 - INFO : *********** entered last name Gillespie***********
+Mon, 10 Oct 2022 20:14:02 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:14:02 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:14:12 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:14:14 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:14:16 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:14:16 - INFO : *********** entered email kingroy@example.org ***********
+Mon, 10 Oct 2022 20:14:16 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:14:16 - INFO : *********** entered first name Robert***********
+Mon, 10 Oct 2022 20:14:16 - INFO : *********** entered last name Johnson***********
+Mon, 10 Oct 2022 20:29:06 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:29:06 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:29:36 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:29:36 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:29:54 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:30:04 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:30:15 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:30:16 - INFO : *********** entered email garywhitehead@example.org ***********
+Mon, 10 Oct 2022 20:30:16 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:30:16 - INFO : *********** entered first name Andrea***********
+Mon, 10 Oct 2022 20:30:16 - INFO : *********** entered last name Dodson***********
+Mon, 10 Oct 2022 20:30:25 - INFO : *********** Add customer test failed***********
+Mon, 10 Oct 2022 20:30:25 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 20:33:56 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:33:56 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:34:05 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:34:09 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:34:11 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:34:11 - INFO : *********** entered email rowebarbara@example.com ***********
+Mon, 10 Oct 2022 20:34:12 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:34:12 - INFO : *********** entered first name Joseph***********
+Mon, 10 Oct 2022 20:34:12 - INFO : *********** entered last name Mendoza***********
+Mon, 10 Oct 2022 20:34:20 - INFO : *********** Add customer test failed***********
+Mon, 10 Oct 2022 20:34:21 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 20:37:36 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:37:36 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:37:44 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:37:46 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:37:49 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:37:49 - INFO : *********** entered email jamesmarshall@example.com ***********
+Mon, 10 Oct 2022 20:37:49 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:37:49 - INFO : *********** entered first name Juan***********
+Mon, 10 Oct 2022 20:37:49 - INFO : *********** entered last name Barker***********
+Mon, 10 Oct 2022 20:37:58 - INFO : ×
+The new customer has been added successfully.
+Mon, 10 Oct 2022 20:37:58 - INFO : *********** Add customer test failed***********
+Mon, 10 Oct 2022 20:37:58 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 20:39:12 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 20:39:12 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 20:39:30 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 20:39:36 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 20:39:40 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 20:39:40 - INFO : *********** entered email teresa72@example.org ***********
+Mon, 10 Oct 2022 20:39:40 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 20:39:40 - INFO : *********** entered first name Diamond***********
+Mon, 10 Oct 2022 20:39:40 - INFO : *********** entered last name Young***********
+Mon, 10 Oct 2022 20:39:49 - INFO : ×
+The new customer has been added successfully.
+Mon, 10 Oct 2022 20:39:49 - INFO : *********** Add customer test failed***********
+Mon, 10 Oct 2022 20:39:49 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 21:50:58 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 21:50:58 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 21:51:09 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 21:51:12 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 21:51:16 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 21:51:16 - INFO : *********** entered email beandaniel@example.net ***********
+Mon, 10 Oct 2022 21:51:16 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 21:51:16 - INFO : *********** entered first name Jessica***********
+Mon, 10 Oct 2022 21:51:17 - INFO : *********** entered last name Cook***********
+Mon, 10 Oct 2022 21:51:26 - INFO : ×
+The new customer has been added successfully.
+Mon, 10 Oct 2022 21:51:26 - INFO : *********** Add customer test failed***********
+Mon, 10 Oct 2022 21:51:27 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 21:52:30 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 21:52:30 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 21:52:39 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 21:52:43 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 21:52:46 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 21:52:46 - INFO : *********** entered email jonathan08@example.org ***********
+Mon, 10 Oct 2022 21:52:47 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 21:52:47 - INFO : *********** entered first name Edward***********
+Mon, 10 Oct 2022 21:52:47 - INFO : *********** entered last name Harrison***********
+Mon, 10 Oct 2022 21:52:56 - INFO : ×
+The new customer has been added successfully.
+Mon, 10 Oct 2022 21:52:56 - INFO : ***********×
+The new customer has been added successfully. ***********
+Mon, 10 Oct 2022 21:52:56 - INFO : *********** Add customer test passed***********
+Mon, 10 Oct 2022 21:52:56 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 21:53:55 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 21:53:55 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 21:54:06 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 21:54:09 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 21:54:11 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 21:54:12 - INFO : *********** entered email taylorjoseph@example.net ***********
+Mon, 10 Oct 2022 21:54:12 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 21:54:12 - INFO : *********** entered first name Ronnie***********
+Mon, 10 Oct 2022 21:54:12 - INFO : *********** entered last name Jackson***********
+Mon, 10 Oct 2022 21:54:22 - INFO : ***********×
+The new customer has been added successfully. ***********
+Mon, 10 Oct 2022 21:54:22 - INFO : *********** Add customer test passed***********
+Mon, 10 Oct 2022 21:54:22 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 22:01:02 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 22:01:02 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 22:01:12 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 22:01:16 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 22:01:21 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 22:01:21 - INFO : *********** entered email jeremiahhuynh@example.net ***********
+Mon, 10 Oct 2022 22:01:21 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 22:01:21 - INFO : *********** entered first name Heather***********
+Mon, 10 Oct 2022 22:01:21 - INFO : *********** entered last name Allen***********
+Mon, 10 Oct 2022 22:01:22 - INFO : *********** selected gender male***********
+Mon, 10 Oct 2022 22:01:22 - INFO : *********** entered date of birth 9/9/2022 ***********
+Mon, 10 Oct 2022 22:01:22 - INFO : *********** entered company name busyQa ***********
+Mon, 10 Oct 2022 22:01:22 - INFO : *********** tic mark to checkbox ***********
+Mon, 10 Oct 2022 22:01:23 - INFO : *********** selected newsletter for Your store name ***********
+Mon, 10 Oct 2022 22:01:23 - INFO : *********** selected vendor manager Vendor 1 ***********
+Mon, 10 Oct 2022 22:01:23 - INFO : *********** selected customer role Vendors ***********
+Mon, 10 Oct 2022 22:01:28 - INFO : ***********×
+The new customer has been added successfully. ***********
+Mon, 10 Oct 2022 22:01:28 - INFO : *********** Add customer test passed***********
+Mon, 10 Oct 2022 22:01:28 - INFO : *********** Add customer test completed***********
+Mon, 10 Oct 2022 22:06:14 - INFO : *********** Test_003_AddNewCustomer ***********
+Mon, 10 Oct 2022 22:06:14 - INFO : *********** Verifying add new customer ***********
+Mon, 10 Oct 2022 22:06:22 - INFO : *********** clicked customer drop menu ***********
+Mon, 10 Oct 2022 22:06:25 - INFO : *********** clicked customer link  ***********
+Mon, 10 Oct 2022 22:06:28 - INFO : *********** clicked add new customer button ***********
+Mon, 10 Oct 2022 22:06:28 - INFO : *********** entered email emily16@example.net ***********
+Mon, 10 Oct 2022 22:06:28 - INFO : *********** entered password admin123 ***********
+Mon, 10 Oct 2022 22:06:28 - INFO : *********** entered first name Jason***********
+Mon, 10 Oct 2022 22:06:28 - INFO : *********** entered last name Smith***********
+Mon, 10 Oct 2022 22:06:29 - INFO : *********** selected gender male***********
+Mon, 10 Oct 2022 22:06:29 - INFO : *********** entered date of birth 9/9/2022 ***********
+Mon, 10 Oct 2022 22:06:29 - INFO : *********** entered company name busyQa ***********
+Mon, 10 Oct 2022 22:06:29 - INFO : *********** tic mark to checkbox ***********
+Mon, 10 Oct 2022 22:06:30 - INFO : *********** selected newsletter for Your store name ***********
+Mon, 10 Oct 2022 22:06:30 - INFO : *********** selected vendor manager Vendor 1 ***********
+Mon, 10 Oct 2022 22:06:30 - INFO : *********** selected customer role Vendors ***********
+Mon, 10 Oct 2022 22:06:35 - INFO : **×
+The new customer has been added successfully.**
+Mon, 10 Oct 2022 22:06:35 - INFO : *********** Add customer test passed***********
+Mon, 10 Oct 2022 22:06:35 - INFO : *********** Add customer test completed***********
+Tue, 11 Oct 2022 08:54:29 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 08:54:29 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 08:55:54 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 08:55:54 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 08:57:09 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 08:57:09 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 09:11:18 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 09:11:18 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 09:13:43 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 09:13:43 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 09:18:31 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 09:18:31 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 09:23:16 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 09:23:16 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 09:24:46 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 09:24:46 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:06:51 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:06:51 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:14:46 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:14:46 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:15:27 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:15:27 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:16:12 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:16:12 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:17:20 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:17:20 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:17:42 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:17:42 - INFO : *********** Verifying search customer functionality ***********
+Tue, 11 Oct 2022 10:18:41 - INFO : test passed
+Tue, 11 Oct 2022 10:47:16 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:47:16 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 10:47:25 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 10:47:27 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 10:47:27 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 10:47:27 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 10:47:30 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 10:47:30 - INFO : test passed
+Tue, 11 Oct 2022 10:47:30 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 10:49:17 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 10:49:17 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 10:49:25 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 10:49:28 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 10:49:28 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 10:49:28 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 10:49:31 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 10:49:31 - INFO : test passed
+Tue, 11 Oct 2022 10:49:31 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 11:01:48 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 11:01:48 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 11:05:49 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 11:05:49 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 11:06:16 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 11:06:16 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 11:06:57 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 11:06:57 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 11:07:06 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:07:07 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:07:08 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 11:07:08 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:07:11 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 11:07:11 - INFO : test passed
+Tue, 11 Oct 2022 11:07:11 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 11:08:23 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:08:23 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:08:32 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:08:34 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:08:34 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 11:08:34 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:11:11 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:11:11 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:11:21 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:11:23 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:11:23 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 11:11:23 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:16:16 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:16:17 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:16:41 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:16:41 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:16:55 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:16:58 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:16:59 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 11:16:59 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:27:05 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:27:05 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:27:14 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:27:16 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:27:16 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 11:27:17 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:27:20 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 11:27:20 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 11:27:20 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 11:28:01 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:28:01 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:28:10 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:28:12 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:28:12 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 11:28:12 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:29:31 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 11:29:31 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 11:29:39 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 11:29:42 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 11:29:42 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 11:29:42 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 11:29:45 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 11:29:45 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 11:29:46 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 12:54:25 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 12:54:29 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:29 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:29 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:29 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:29 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:31 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:54:31 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:54:31 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:54:31 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:54:31 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:54:39 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:39 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:39 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:39 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:39 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 12:54:41 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 12:54:49 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:54:49 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:54:49 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:54:49 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:54:49 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:54:51 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:54:51 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:54:51 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:54:51 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:54:51 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:54:52 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : test passed
+Tue, 11 Oct 2022 12:54:55 - INFO : test passed
+Tue, 11 Oct 2022 12:54:55 - INFO : test passed
+Tue, 11 Oct 2022 12:54:55 - INFO : test passed
+Tue, 11 Oct 2022 12:54:55 - INFO : test passed
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 12:54:55 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:58:27 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 12:58:38 - INFO : **** passed ****
+Tue, 11 Oct 2022 12:58:38 - INFO : **** passed ****
+Tue, 11 Oct 2022 12:58:38 - INFO : **** passed ****
+Tue, 11 Oct 2022 12:58:38 - INFO : **** passed ****
+Tue, 11 Oct 2022 12:58:38 - INFO : **** passed ****
+Tue, 11 Oct 2022 12:58:42 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:42 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:42 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:42 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:42 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:43 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:43 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:43 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:43 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:43 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:45 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:45 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:45 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:45 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:45 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:46 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:46 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:46 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:46 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:46 - INFO : **** failed ****
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 12:58:46 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 12:58:48 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 12:58:57 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:58:57 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:58:57 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:58:57 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:58:57 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:58:59 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 12:59:02 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 12:59:03 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 12:59:03 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 12:59:03 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 12:59:03 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 12:59:03 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:10:00 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:10:11 - INFO : **** passed ****
+Tue, 11 Oct 2022 13:10:11 - INFO : **** passed ****
+Tue, 11 Oct 2022 13:10:11 - INFO : **** passed ****
+Tue, 11 Oct 2022 13:10:11 - INFO : **** passed ****
+Tue, 11 Oct 2022 13:10:11 - INFO : **** passed ****
+Tue, 11 Oct 2022 13:10:15 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:15 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:15 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:15 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:15 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:16 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:16 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:16 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:16 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:16 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:17 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:17 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:17 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:17 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:17 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:19 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:19 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:19 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:19 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:19 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:10:19 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:10:20 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:10:29 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:10:29 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:10:29 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:10:29 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:10:29 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:10:32 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:10:35 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:16:06 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 13:16:06 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 13:16:06 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 13:16:06 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 13:16:06 - INFO : *********** Test_001_Login ***********
+Tue, 11 Oct 2022 13:16:07 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 13:16:07 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 13:16:07 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 13:16:07 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 13:16:07 - INFO : *********** Verifying Home Page Title ***********
+Tue, 11 Oct 2022 13:16:12 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:12 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:12 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:12 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:12 - INFO : *********** Test Home Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:14 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:16:14 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:16:14 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:16:14 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:16:14 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:16:27 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:27 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:27 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:27 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:27 - INFO : *********** Test Login Page Title passed  ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Test_005_SearchCustomer ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 13:16:29 - INFO : *********** Verifying search customer by email functionality ***********
+Tue, 11 Oct 2022 13:16:40 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:16:40 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:16:40 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:16:40 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:16:40 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:16:42 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:16:42 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:16:42 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:16:42 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:16:42 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** entered email in email text box : victoria_victoria@nopCommerce.com ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:16:43 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** displaying victoria_victoria@nopCommerce.com in table ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : test passed
+Tue, 11 Oct 2022 13:16:46 - INFO : test passed
+Tue, 11 Oct 2022 13:16:46 - INFO : test passed
+Tue, 11 Oct 2022 13:16:46 - INFO : test passed
+Tue, 11 Oct 2022 13:16:46 - INFO : test passed
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 13:16:46 - INFO : *********** Test search by email completed ***********
+Tue, 11 Oct 2022 13:31:20 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:31:20 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:31:20 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:31:20 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:31:20 - INFO : *********** Test_002_DDT_login ***********
+Tue, 11 Oct 2022 13:31:21 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:31:21 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:31:21 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:31:21 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:31:21 - INFO : *********** Verifying Login Page Title ***********
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:26 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:27 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:28 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:28 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:28 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:28 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:28 - INFO : **** failed ****
+Tue, 11 Oct 2022 13:31:28 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:31:28 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:31:28 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:31:28 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:31:28 - INFO : *********** Test Login DDT passed ***********
+Tue, 11 Oct 2022 13:31:30 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:31:30 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:31:30 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:31:30 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:31:30 - INFO : *********** Test Login DDT completed ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:31:38 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 13:31:45 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:31:45 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:31:45 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:31:45 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:31:45 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 13:31:47 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:31:47 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:31:47 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:31:47 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:31:47 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 13:31:48 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:31:48 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:31:48 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:31:48 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:31:48 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 13:31:49 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:31:49 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:31:49 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:31:49 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:31:49 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:31:52 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
