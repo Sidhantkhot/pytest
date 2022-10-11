@@ -963,3 +963,12 @@ Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name complet
 Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
 Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
 Tue, 11 Oct 2022 13:31:53 - INFO : *********** Test search by first name completed ***********
+Tue, 11 Oct 2022 18:13:16 - INFO : *********** Test_006_SearchCustomer ***********
+Tue, 11 Oct 2022 18:13:16 - INFO : *********** Verifying search customer by name functionality ***********
+Tue, 11 Oct 2022 18:13:26 - INFO : *********** clicked customer drop menu ***********
+Tue, 11 Oct 2022 18:13:28 - INFO : *********** clicked customer link ***********
+Tue, 11 Oct 2022 18:13:29 - INFO : *********** entered first name in first name text box : victoria ***********
+Tue, 11 Oct 2022 18:13:29 - INFO : *********** clicked search button ***********
+Tue, 11 Oct 2022 18:13:32 - INFO : *********** displaying victoria in table ***********
+Tue, 11 Oct 2022 18:13:32 - INFO : *********** test passed ***********
+Tue, 11 Oct 2022 18:13:32 - INFO : *********** Test search by first name completed ***********
